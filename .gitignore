@@ -96,3 +96,5 @@ __flask_monitoringdashboard__
 
 # Pytest cache
 .pytest_cache/
+
+models/
