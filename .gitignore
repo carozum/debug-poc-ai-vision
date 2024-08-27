@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+.cache
+nosetests.xml
+coverage/
+*.coveragerc
+*.log
+*.out
+*.pytest_cache/
+.junit.xml
+
+# Translations
+*.mo
+*.pot
+
+# Flask instance folder
+instance/
+
+# Flask cache
+flask_session/
+
+# Static files cache
+staticfiles/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Docker files
+*.env
+docker-compose.yml
+Dockerfile
+
+# Python Egg files
+*.egg
+*.egg-info/
+.eggs/
+
+# Dist directory
+dist/
+build/
+*.egg-info/
+
+# Flask Monitoring Dashboard
+__flask_monitoringdashboard__
+
+# Database files
+*.db
+*.sqlite3
+
+# Pytest cache
+.pytest_cache/
